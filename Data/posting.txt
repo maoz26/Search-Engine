@@ -1,0 +1,5 @@
+0,C:\Users\Maoz\workspace\Search\database files\cats.txt
+1,C:\Users\Maoz\workspace\Search\database files\fashion.txt
+2,C:\Users\Maoz\workspace\Search\database files\space.txt
+3,C:\Users\Maoz\workspace\Search\database files\vegetables.txt
+4,C:\Users\Maoz\workspace\Search\database files\wedding.txt
